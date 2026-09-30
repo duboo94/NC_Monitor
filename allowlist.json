@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "message": "",
+  "licenses": {
+    "CUSTOMER-A": { "active": true,  "expires": "2026-12-31" },
+    "CUSTOMER-B": { "active": false, "expires": "2026-12-31" }
+  }
+}
